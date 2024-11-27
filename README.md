@@ -12,7 +12,7 @@
   <div id="container_3e575098">
     <div id="container_3e575098_padding" >
       <div class="textstyle2">
-        <img src="rc_images/___1200x675.jpg" width="1200" height="675" id="img_37cf11ab" alt="" title="" />
+        <img src="rc_images/abc3.jpg" width="1920" height="1080" id="img_37cf11ab" alt="" title="" />
         <div id="text_5b736143">
           <div class="textstyle2">
             <div id="container_192b9a7">
@@ -22,7 +22,7 @@
                     <div class="vcenterstyle1"><div class="vcenterstyle2">                      <div class="textstyle2">
                         </div>
                       <div class="textstyle1">
-                        <span class="textstyle5">ÕÅÜÆÂü</span>
+                        <span class="textstyle5">张芷曼</span>
                         </div>
                       </div></div>
                     </div></a>
@@ -30,6 +30,7 @@
                 <div style="clear:both"></div>
                 </div>
               </div>
+            <span class="textstyle6">在这里编辑文本</span>
             </div>
           </div>
         </div>
@@ -66,13 +67,14 @@
         <div id="container_55cd82bf">
           <div id="container_55cd82bf_padding" >
             <div class="textstyle2">
-              <img src="rc_images/_____20241127192210.jpg" width="810" height="746" id="img_2a63c6c8" alt="" title="" />
+              <img src="rc_images/abc1.jpg" width="810" height="746" id="img_2a63c6c8" alt="" title="" />
               </div>
             <div style="clear:both"></div>
             </div>
           </div>
         </div>
       <div class="textstyle2">
+        <img src="rc_images/framework.png" width="1170" height="493" id="img_3003ed18" alt="" title="" />
         <span class="textstyle6"><br/><br/><br/><br/></span>
         </div>
       <div style="clear:both"></div>
@@ -88,7 +90,7 @@
         <div id="container_24d810db">
           <div id="container_24d810db_padding" >
             <div class="textstyle2">
-              <img src="rc_images/_____20241127194548.jpg" width="451" height="549" id="img_3c70b732" alt="" title="" />
+              <img src="rc_images/abc2.jpg" width="451" height="549" id="img_3c70b732" alt="" title="" />
               </div>
             <div style="clear:both"></div>
             </div>
