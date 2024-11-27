@@ -1,4 +1,3 @@
-##张芷曼
 <!DOCTYPE html>
 <html> 
 <head>
@@ -23,7 +22,7 @@
                     <div class="vcenterstyle1"><div class="vcenterstyle2">                      <div class="textstyle2">
                         </div>
                       <div class="textstyle1">
-                        <span class="textstyle5">张芷曼</span>
+                        <span class="textstyle5">������</span>
                         </div>
                       </div></div>
                     </div></a>
@@ -31,7 +30,6 @@
                 <div style="clear:both"></div>
                 </div>
               </div>
-            <span class="textstyle6">在这里编辑文本</span>
             </div>
           </div>
         </div>
