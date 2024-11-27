@@ -22,7 +22,7 @@
                     <div class="vcenterstyle1"><div class="vcenterstyle2">                      <div class="textstyle2">
                         </div>
                       <div class="textstyle1">
-                        <span class="textstyle5">’≈‹∆¬¸</span>
+                        <span class="textstyle5">√ï√Ö√ú√Ü√Ç√º</span>
                         </div>
                       </div></div>
                     </div></a>
