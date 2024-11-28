@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html> 
 <head>
 	<meta charset="utf-8">
@@ -29,7 +30,6 @@
                 <div style="clear:both"></div>
                 </div>
               </div>
-            <span class="textstyle6">在这里编辑文本</span>
             </div>
           </div>
         </div>
@@ -73,7 +73,6 @@
           </div>
         </div>
       <div class="textstyle2">
-        <img src="rc_images/framework.png" width="1170" height="493" id="img_3003ed18" alt="" title="" />
         <span class="textstyle6"><br/><br/><br/><br/></span>
         </div>
       <div style="clear:both"></div>
