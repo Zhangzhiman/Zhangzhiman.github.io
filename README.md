@@ -12,7 +12,7 @@
   <div id="container_3e575098">
     <div id="container_3e575098_padding" >
       <div class="textstyle2">
-        <https://raw.githubusercontent.com/liubo2358/scASKcmd/master/Supplementary/framework.png" width="1920" height="1080" id="img_37cf11ab" alt="" title="" />
+        <img src="" id="img_37cf11ab" alt="" title="" />
         <div id="text_5b736143">
           <div class="textstyle2">
             <div id="container_192b9a7">
@@ -66,7 +66,7 @@
         <div id="container_55cd82bf">
           <div id="container_55cd82bf_padding" >
             <div class="textstyle2">
-              <img src="rc_images/abc1.jpg" width="810" height="746" id="img_2a63c6c8" alt="" title="" />
+              <img src="rc_images/_____20241127192210.jpg" width="810" height="746" id="img_2a63c6c8" alt="" title="" />
               </div>
             <div style="clear:both"></div>
             </div>
@@ -88,7 +88,7 @@
         <div id="container_24d810db">
           <div id="container_24d810db_padding" >
             <div class="textstyle2">
-              <img src="rc_images/abc2.jpg" width="451" height="549" id="img_3c70b732" alt="" title="" />
+              <img src="rc_images/_____20241127194548.jpg" width="451" height="549" id="img_3c70b732" alt="" title="" />
               </div>
             <div style="clear:both"></div>
             </div>
