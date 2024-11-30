@@ -66,7 +66,7 @@
         <div id="container_55cd82bf">
           <div id="container_55cd82bf_padding" >
             <div class="textstyle2">
-              <img src="https://s2.loli.net/2024/11/30/ZyGfnv3TOpVQqME.jpg" width="810" height="746" id="img_2a63c6c8" alt="" title="" />
+              <img src="https://s2.loli.net/2024/11/30/ZumPkhtxin7bWUL.jpg" width="810" height="746" id="img_2a63c6c8" alt="" title="" />
               </div>
             <div style="clear:both"></div>
             </div>
