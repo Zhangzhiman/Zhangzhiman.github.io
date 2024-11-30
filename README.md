@@ -12,7 +12,7 @@
   <div id="container_3e575098">
     <div id="container_3e575098_padding" >
       <div class="textstyle2">
-        <a href="https://sm.ms/image/ZyGfnv3TOpVQqME" target="_blank"><img src="https://s2.loli.net/2024/11/30/ZyGfnv3TOpVQqME.jpg" ></a>
+        <img src="https://s2.loli.net/2024/11/30/ZyGfnv3TOpVQqME.jpg" width="1200" height="675" id="img_37cf11ab" alt="" title="" />
         <div id="text_5b736143">
           <div class="textstyle2">
             <div id="container_192b9a7">
