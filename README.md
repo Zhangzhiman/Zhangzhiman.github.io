@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html> 
-<head>
+
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="generator" content="RocketCake">
@@ -12,7 +10,7 @@
   <div id="container_3e575098">
     <div id="container_3e575098_padding" >
       <div class="textstyle2">
-        <img src="https://s2.loli.net/2024/11/30/ZyGfnv3TOpVQqME.jpg" width="1200" height="675" id="img_37cf11ab" alt="" title="" />
+        
         <div id="text_5b736143">
           <div class="textstyle2">
             <div id="container_192b9a7">
