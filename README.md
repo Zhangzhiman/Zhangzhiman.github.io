@@ -1,4 +1,4 @@
-[<!DOCTYPE html>
+<!DOCTYPE html>
 <html> 
 <head>
 	<meta charset="utf-8">
@@ -126,4 +126,4 @@
   <span class="textstyle6"><br/></span>
   </div>
 </body>
-</html>]
+</html>
