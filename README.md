@@ -66,7 +66,7 @@
         <div id="container_55cd82bf">
           <div id="container_55cd82bf_padding" >
             <div class="textstyle2">
-              <img src="rc_images/_____20241127192210.jpg" width="810" height="746" id="img_2a63c6c8" alt="" title="" />
+              <img src="https://s2.loli.net/2024/11/30/ZyGfnv3TOpVQqME.jpg" width="810" height="746" id="img_2a63c6c8" alt="" title="" />
               </div>
             <div style="clear:both"></div>
             </div>
@@ -88,7 +88,7 @@
         <div id="container_24d810db">
           <div id="container_24d810db_padding" >
             <div class="textstyle2">
-              <img src="rc_images/_____20241127194548.jpg" width="451" height="549" id="img_3c70b732" alt="" title="" />
+              <img src="https://s2.loli.net/2024/11/30/VruAwg9Sa42nTZX.jpg" width="451" height="549" id="img_3c70b732" alt="" title="" />
               </div>
             <div style="clear:both"></div>
             </div>
