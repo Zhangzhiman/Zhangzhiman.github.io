@@ -12,7 +12,7 @@
   <div id="container_3e575098">
     <div id="container_3e575098_padding" >
       <div class="textstyle2">
-        <img src="https://sm.ms/image/ZyGfnv3TOpVQqME" width="1920" height="1080" id="img_37cf11ab" alt="" title="" />
+        <a href="https://sm.ms/image/ZyGfnv3TOpVQqME" target="_blank">
         <div id="text_5b736143">
           <div class="textstyle2">
             <div id="container_192b9a7">
