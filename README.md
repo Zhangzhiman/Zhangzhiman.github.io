@@ -1,11 +1,4 @@
 
-
-       
-        <div id="text_5b736143">
-          <div class="textstyle2">
-            <div id="container_192b9a7">
-              <div id="container_192b9a7_padding" >
-                <div class="textstyle2">
 <span class="textstyle3">Hello!<br/>This is<br/>my personal webpage</span><span class="textstyle4"><br/>Welcome!</span><span class="textstyle3"><br/><br/></span>                  <a href="index.html#appointment" style="text-decoration:none"><div id="button_2386f5af">
                     <div class="vcenterstyle1"><div class="vcenterstyle2">                      <div class="textstyle2">
                         </div>
