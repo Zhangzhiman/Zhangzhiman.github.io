@@ -66,7 +66,7 @@
         <div id="container_55cd82bf">
           <div id="container_55cd82bf_padding" >
             <div class="textstyle2">
-              <img src="rc_images/abc1.jpg" width="810" height="746" id="img_2a63c6c8" alt="" title="" />
+              <img src="https://sm.ms/image/ZumPkhtxin7bWUL" width="810" height="746" id="img_2a63c6c8" alt="" title="" />
               </div>
             <div style="clear:both"></div>
             </div>
@@ -88,7 +88,7 @@
         <div id="container_24d810db">
           <div id="container_24d810db_padding" >
             <div class="textstyle2">
-              <img src="rc_images/abc2.jpg" width="451" height="549" id="img_3c70b732" alt="" title="" />
+              <img src="https://sm.ms/image/VruAwg9Sa42nTZX" width="451" height="549" id="img_3c70b732" alt="" title="" />
               </div>
             <div style="clear:both"></div>
             </div>
