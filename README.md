@@ -25,7 +25,7 @@ improve team collaboration efficiency.
 
 ## Contact me
 
-![](https://s2.loli.net/2024/11/30/VruAwg9Sa42nTZX.jpg)
+![](https://raw.githubusercontent.com/Zhangzhiman/Zhangzhiman.github.io/refs/heads/main/abc2.jpg)
 
 Just give me a call or send us a mail:
 
