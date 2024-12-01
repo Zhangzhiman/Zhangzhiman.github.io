@@ -21,7 +21,7 @@ improve team collaboration efficiency.
 
 - ......
 
-![](https://s2.loli.net/2024/11/30/ZumPkhtxin7bWUL.jpg)
+![](https://raw.githubusercontent.com/Zhangzhiman/Zhangzhiman.github.io/refs/heads/main/abc1.jpg)
 
 ## Contact me
 
